@@ -1,6 +1,6 @@
 # Global Ramadan Countdown
 
-[![image alt](https://github.com/hatim-ayyad/ramadan-countdown-api/images/example.png)](https://github.com/hatim-ayyad/ramadan-countdown-api/blob/63eb20e9b54f359afe67b3d2c3e1cc88567fba80/images/example.png)
+![image alt](https://github.com/hatim-ayyad/ramadan-countdown-api/blob/63eb20e9b54f359afe67b3d2c3e1cc88567fba80/images/example.png)
 
 ## Project Overview
 A modern and responsive Ramadan Countdown web application that displays the remaining time until Ramadan 1447H (February 18, 2026).  
